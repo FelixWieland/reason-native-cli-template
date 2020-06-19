@@ -1,0 +1,3 @@
+*.rb linguist-language=ReasonML
+*.cpp linguist-language=Reason
+*.html linguist-vendored
