@@ -1,3 +1,6 @@
 *.rb linguist-language=ReasonML
 *.cpp linguist-language=Reason
+*.re linguist-language=Reason
 *.html linguist-vendored
+_esy linguist-vendored
+esy.lock linguist-vendored
